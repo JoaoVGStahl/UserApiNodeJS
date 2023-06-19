@@ -1,0 +1,21 @@
+{
+  "name": "userapi",
+  "version": "1.0.0",
+  "description": "Api Cadastro Usuario",
+  "main": "app.ts",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "author": "Chat GPT",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/mysql": "^2.15.21",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
